@@ -1,0 +1,32 @@
+p {
+    font-family: Cursive;
+}
+body {
+    background-image: url(https://wallpapersite.com/images/wallpapers/purple-2880x1800-waves-4k-626.jpg)
+}
+header {
+    border: 4px solid #ff4eb7;
+    background-image: url(https://thumbs.gfycat.com/UniformConcernedGosling-size_restricted.gif)
+}
+
+.name {
+    font-family: Helvetica;
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+}
+
+.nav {
+        text-align: center;
+}
+
+a:hover {
+    background-image: url(https://media.giphy.com/media/26AHMBTzc1qJgFfDW/giphy.gif)
+}
+.nav a {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color:	#ffffff;
+    font-size: 18px;
+    border-radius: 8px;
+}
